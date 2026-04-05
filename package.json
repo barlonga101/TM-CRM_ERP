@@ -10,7 +10,7 @@
     "url": "https://github.com/ToManage/TM-CRM_ERP.git"
   },
   "engines": {
-    "node": "6.6.x"
+    "node": "24.x"
   },
   "contributors": [
     "Herve Prot <herve.prot@tomanage.fr>"
